@@ -1,4 +1,4 @@
-Hello
-World
-Mac
-Windows 23
+Hello;
+World;
+Mac;
+Windows 23;
